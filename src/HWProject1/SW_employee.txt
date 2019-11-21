@@ -1,0 +1,8 @@
+id01/name01/비서실/Staff/X
+id02/name04/인사팀/Staff/X
+id03/name03/비서실/Staff/X
+id04/name04/개발1팀/SW Developer/O
+id05/name05/개발1팀/SW Developer/X
+id06/name06/개발1팀/SW Tester/X
+id07/name07/개발3팀/SW Tester/O
+id08/name08/개발2팀/SW Tester/X
